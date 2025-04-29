@@ -10,6 +10,8 @@ Some of the files are too large to upload here. You can access them via a Mediaf
 - Main Server (off_topic): [https://www.mediafire.com/file/4h4painf8mi50vq/JN_Staff_Team_-_%25F0%259F%2592%25AC_Staff_Chats_-_staff_offtopic_%255B989977129238282280%255D.html/file](https://www.mediafire.com/file/4h4painf8mi50vq/JN_Staff_Team_-_%25F0%259F%2592%25AC_Staff_Chats_-_staff_offtopic_%255B989977129238282280%255D.html/file)
 - Main Server (on_topic): [https://www.mediafire.com/file/aku0753m8p2pvia/JartexNetwork_-_Archive_%2526_joins_-_staff_ontopic_%255B315952283881832448%255D.html/file](https://www.mediafire.com/file/aku0753m8p2pvia/JartexNetwork_-_Archive_%2526_joins_-_staff_ontopic_%255B315952283881832448%255D.html/file)
 
+## #Freepakitonia
+
 ### Feel free to clone this repository and download the files above to combat censorship 🐫!
 
 If you have any doubts, feel free to contact us via Discord @rodagave or @liamlopez
